@@ -22,6 +22,8 @@
 - Tools: TensorFlow, PyTorch, scikit-learn, Jupyter Notebook, Pnadas, Numpy, LangChain
 
 ## Projects
+## Machine Learning and Data Analytics Portfolio
+<link rel="stylesheet" href="style.css">
 
 ## Contact Me
 
