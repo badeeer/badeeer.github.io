@@ -1,8 +1,13 @@
 # badeeer.github.io
 
 ## Machine Learning and Data Analytics Portfolio
+### Who's me 
 
-- I am a Machine Learning Specialist with a strong focus on deep learning, generative models, NLP, and computer vision. I excel in interpreting and analyzing data using Python, R, BigQuery, Google Cloud, GitHub, and Git. My passion lies in crafting cutting-edge solutions that harness the power of machine learning and data analytics.
+```
+I am a Machine Learning Specialist with a strong focus on deep learning, generative models, NLP, and computer vision. I excel in interpreting and analyzing data using Python, R, BigQuery, Google Cloud, GitHub, and Git. My passion lies in crafting cutting-edge solutions that harness the power of machine learning and data analytics.
+
+```
+## Skills and Experience
 
 - My expertise extends to the world of deep learning, where I have designed and implemented advanced models for various applications. I have successfully completed projects such as Falls Detection in Smart Home Environments, utilizing deep learning techniques to classify sensor data events and implement risk mitigation measures.
 
@@ -14,7 +19,7 @@
 
 - My commitment to continuous learning and my unwavering passion for exploring the frontiers of deep learning, generative models, NLP, and computer vision make me a dedicated and innovative Machine Learning Specialist
 
-## Skills and Experience
+
 
 - Machine learning: supervised learning, unsupervised learning, reinforcement learning, Deeplearning, generative model 
 - Data analytics: data cleaning, data exploration, data visualization
@@ -23,7 +28,7 @@
 
 ## Projects
 ## Machine Learning and Data Analytics Portfolio
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="./style.css">
 
 ## Contact Me
 
