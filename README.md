@@ -28,11 +28,11 @@
 
 If you are interested in hiring me or learning more about my work, please feel free to contact me at
 
--Email: [BaderdinBalaj@gmail.com/Badr](Baderdinbalaj@gmail.com)
+-> Email: [BaderdinBalaj@gmail.com/Badr](Baderdinbalaj@gmail.com)
 
--LinkedIn: [wwww.LinkedIn.com/Badr]( https://www.linkedin.com/in/badreddine-balaj-3a2817219/)
+-> LinkedIn: [wwww.LinkedIn.com/Badr]( https://www.linkedin.com/in/badreddine-balaj-3a2817219/)
 
--Kaggle: [www.Kaggle.com/Badr](https://www.kaggle.com/badreddineb)
+-> Kaggle: [www.Kaggle.com/Badr](https://www.kaggle.com/badreddineb)
 
 GitHub: [www.github.com/Badr](https://github.com/badeeer)
 
