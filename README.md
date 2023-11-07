@@ -27,7 +27,17 @@ I am a Machine Learning Specialist with a strong focus on deep learning, generat
 - Tools: TensorFlow, PyTorch, scikit-learn, Jupyter Notebook, Pnadas, Numpy, LangChain
 
 ## Projects
-## Machine Learning and Data Analytics Portfolio
+
+### Ten Animals Classifier
+
+- **Summary**: Developed a comprehensive image classification system capable of classifying images of ten different animals using Convolutional Neural Networks (CNN). The project includes data organization, model building, training, feature extraction, fine-tuning, and model evaluation.
+
+- **Key Skills**: Image classification, TensorFlow, CNN, pre-trained models, deep learning, data organization, model training.
+
+- **GitHub Repository**: [Ten Animals Classifier](https://github.com/badeeer/Ten-animales-classifier-)
+
+For a more detailed explanation and code implementation, please refer to the Jupyter notebook and README in the GitHub repository.
+
 <link rel="stylesheet" href="./style.css">
 
 ## Contact Me
