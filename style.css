@@ -1,0 +1,12 @@
+.project-links {
+    text-align: center;
+  }
+  
+  .project-link {
+    list-style-type: disc;
+    margin-bottom: 10px;
+  }
+  
+  .project-link:hover {
+    color: blue;
+  }
