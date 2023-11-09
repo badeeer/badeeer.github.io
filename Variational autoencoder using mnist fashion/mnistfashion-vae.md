@@ -3,21 +3,26 @@
 ## Introduction
 
 This Jupyter notebook, "mnistfashion-vae.ipynb," is an implementation of a Variational Autoencoder (VAE) for the Fashion MNIST dataset. It serves as an introduction to VAEs and their application in generative modeling.
-
-## Overview
-
-- **Variational Autoencoder (VAE)**: A VAE is a generative model used in machine learning and deep learning. It is particularly useful for tasks like data generation, image reconstruction, and feature learning. This notebook explores the architecture and implementation of a VAE.
-
-- **Fashion MNIST Dataset**: The Fashion MNIST dataset is a collection of grayscale images of clothing and fashion items. It contains 60,000 training images and 10,000 test images across ten different classes, each representing a different fashion item such as shoes, dresses, or t-shirts.
-
-## Key Components
-
 This notebook includes the following key components:
 
-- **Data Preprocessing**: The Fashion MNIST dataset is loaded and preprocessed, including normalizing pixel values and adding a channel dimension for grayscale images.
+Introduction to VAE and Fashion MNIST
+Inspired by the book "Deep Learning" by François Chollet
+The Variational Autoencoder (VAE) is a type of generative model used in machine learning and deep learning. It is particularly useful for tasks like data generation, image reconstruction, and feature learning. The Fashion MNIST dataset serves as a suitable candidate for applying VAE.
 
-- **Encoder Network**: The encoder network is defined, which maps input images to a latent space representation. It comprises convolutional layers and dense layers.
+Fashion MNIST is a dataset comprising grayscale images of clothing and fashion items. It contains 60,000 training images and 10,000 test images across ten different classes, each representing a different fashion item such as shoes, dresses, or t-shirts. The dataset is widely used in machine learning for image classification tasks and, in this context, for VAE-based generative modeling.
 
-- **Sampler**: A custom layer, "Sampler," is used to sample points in the latent space based on the mean and log-variance of the latent space distribution.
+The Problem: The problem addressed here is to leverage a Variational Autoencoder to learn a compact, continuous latent space representation of the Fashion MNIST images. VAEs are designed to capture the underlying structure in data and enable the generation of new, similar data samples from this learned latent space.
 
-- **Decoder Network**: The decoder network is defined, which maps points in the latent space back to reconstructed images. It comprises dense layers and transposed convolutional layers.
+import tensorflow as tf: This imports the TensorFlow library, a popular open-source machine learning framework, and assigns it the alias tf.
+
+from tensorflow.keras.datasets import fashion_mnist: This line imports the Fashion MNIST dataset from the TensorFlow Keras library. Fashion MNIST is a dataset of grayscale images of fashion items like clothing, shoes, and accessories.
+
+from tensorflow.keras.models import Model: This line imports the Model class from TensorFlow Keras, which is used to define and train machine learning models.
+
+from tensorflow.keras import layers: This imports various layers used to build neural networks, such as dense layers and convolutional layers, from the TensorFlow Keras library.
+
+from tensorflow import keras: This imports the keras submodule from TensorFlow, which is a high-level neural networks API, making it easier to build and train models.
+
+import matplotlib.pyplot as plt: This line imports the matplotlib library and assigns the alias plt. Matplotlib is used for data visualization and plotting, which can be handy for visualizing model performance and data.
+
+import numpy as np: This line imports the NumPy library and assigns it the alias np. NumPy is used for numerical operations and working with arrays, which is fundamental in machine learning for data manipulation.
