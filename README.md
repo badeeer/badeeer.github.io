@@ -7,6 +7,14 @@
 
 ## Projects
 
+### Variational Autoencoder for Fashion MNIST
+
+- **Summary**: Implemented a Variational Autoencoder (VAE) for the Fashion MNIST dataset, showcasing the generation of new samples and exploring the latent space. The project covers data loading and preprocessing, VAE architecture definition, training, and sample generation.
+
+- **Key Skills**: Variational Autoencoder, Generative Models, Convolutional Neural Networks (CNN), TensorFlow, Deep Learning, Image Generation.
+
+- **GitHub Repository**: Variational Autoencoder for Fashion MNIST
+
 ### Ten Animals Classifier
 
 - **Summary**: Developed a comprehensive image classification system capable of classifying images of ten different animals using Convolutional Neural Networks (CNN). The project includes data organization, model building, training, feature extraction, fine-tuning, and model evaluation.
@@ -27,5 +35,3 @@ For a more detailed explanation and code implementation, please refer to the Jup
 - Kaggle: [www.Kaggle.com/Badr](https://www.kaggle.com/badreddineb)
 - GitHub: [www.github.com/Badr](https://github.com/badeeer)
 
-
-Thank you for your time!
