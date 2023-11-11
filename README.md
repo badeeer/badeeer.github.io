@@ -24,7 +24,7 @@
 
 For a more detailed explanation and code implementation, please refer to the Jupyter notebook and README in the GitHub repository.
 
-For more projects, check the [Projects](#projects) section.
+For more projects, check the [Projects](./Projects/) section.
 
 <link rel="stylesheet" href="./style.css">
 
