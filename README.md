@@ -4,7 +4,6 @@
 
 - **Educational Background**: My educational journey includes mastering key mathematical concepts, providing a strong foundation for deep learning and data science. I'm committed to continuous learning and passionate about exploring the frontiers of deep learning, NLP, and computer vision. My skills encompass supervised and unsupervised learning, reinforcement learning, data cleaning, data exploration, and data visualization.
 
-
 ## Projects
 
 ### Variational Autoencoder for Fashion MNIST
@@ -24,6 +23,8 @@
 - **GitHub Repository**: [Ten Animals Classifier](https://github.com/badeeer/Ten-animales-classifier-)
 
 For a more detailed explanation and code implementation, please refer to the Jupyter notebook and README in the GitHub repository.
+
+For more projects, check the [Projects](#projects) section.
 
 <link rel="stylesheet" href="./style.css">
 
