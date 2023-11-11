@@ -13,7 +13,7 @@
 
 - **Key Skills**: Variational Autoencoder, Generative Models, Convolutional Neural Networks (CNN), TensorFlow, Deep Learning, Image Generation.
 
-- **GitHub Repository**: Variational Autoencoder for Fashion MNIST
+- **GitHub Repository**: [Variational Autoencoder for Fashion MNIST](https://github.com/badeeer/mnistfashion-vae.git)
 
 ### Ten Animals Classifier
 
