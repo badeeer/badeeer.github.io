@@ -28,7 +28,7 @@ For a more detailed explanation and code implementation, please refer to the Jup
 
 
 ### key notes about Attention is all you need: 
-[key notes](/Articles/attentions.md)
+[key notes](/Articles/attention.md)
 
 
 For more projects, check the [Projects](./Projects) section.
