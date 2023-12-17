@@ -7,4 +7,4 @@ title: Articles
 
 #Welcome to my articles section! Explore the following articles:
 
-- **key notes about  attention mechanism**: [attention](/Articles/attention.md)
+- **key notes about  attention mechanism**: [attention]('/Articles/attention.md')
