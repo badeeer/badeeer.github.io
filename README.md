@@ -24,7 +24,14 @@
 
 For a more detailed explanation and code implementation, please refer to the Jupyter notebook and README in the GitHub repository.
 
+## Articles
+
+### key nots about Attention is all you needs: 
+[key notes](/Articles/attention.md)
+
 For more projects, check the [Projects](./Projects/) section.
+
+For more articles check the [Articles](./Articles/) section.
 
 <link rel="stylesheet" href="./style.css">
 
