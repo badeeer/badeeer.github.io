@@ -23,9 +23,21 @@ For example, when translating a sentence from English to French, some words may 
 The main components of an attention mechanism are:
 
 Key ($\mathbf{K}$): This is a learnable projection of each element of the input to an embedding space.
+
 Query ($\mathbf{Q}$): This is also a projection, but of the current output the model is processing, allowing it to focus on relevant parts of the input.
-Relevance Scores: The similarity between query and key is computed, giving a score representing relevance or "attention". Higher means more relevant. Common similarity functions are dot product or MLP. $$Attention(Q,K) = softmax(\frac{\mathbf{Q}\mathbf{K}^T}{\sqrt{d_k}})$$
-Output ($\mathbf{V}$): The values of the input are combined using the relevance scores to produce the attention output. This focuses on the most relevant parts of the input. $$AttentionOutput = \sum Attention(Q,K)V$$
+
+Relevance Scores: The similarity between query and key is computed, giving a score representing relevance or “attention”. Higher means more relevant. Common similarity functions are dot product or MLP.
+
+\[
+\text{Attention}(Q, K) = \text{softmax}\left(\frac{\mathbf{Q}\mathbf{K}^T}{\sqrt{d_k}}\right)
+\]
+
+Output ($\mathbf{V}$): The values of the input are combined using the relevance scores to produce the attention output. This focuses on the most relevant parts of the input.
+
+\[
+\text{AttentionOutput} = \sum \text{Attention}(Q, K) \mathbf{V}
+\]
+
 
 By learning projections to an embedding space, attention allows determining relevance between elements in different modalities (text, images, etc).
 
