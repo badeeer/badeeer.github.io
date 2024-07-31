@@ -6,12 +6,12 @@
 
 /* Base Styles */
 body {
-  font-family: 'CustomFont', sans-serif; /* Apply custom font to the body */
-  background-color: #f4f4f4;
-  color: #333;
+  background-color: #f4f4f4; /* Very Light Gray */
+  color: #333; /* Adjust text color as needed */
   margin: 0;
   padding: 0;
 }
+
 
 /* Header Styles */
 header {
