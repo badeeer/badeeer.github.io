@@ -23,7 +23,9 @@ Welcome to my portfolio! I work at the intersection of **hardware, avionics, ele
 ## 📫 Get in Touch
 
 - GitHub: [@badeeer](https://github.com/badeeer)
-- *(add email, LinkedIn, or other contact info if you'd like)*
+- Email: baderdinbalaj@gmail.com
+- *(add LinkedIn, or other contact info if you'd like)*
 
 ---
 ⭐ Feel free to explore the repos and reach out if you'd like to collaborate!
+
