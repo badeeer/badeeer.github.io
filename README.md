@@ -1,5 +1,4 @@
-cd ~/projects/badeeer.github.io
-cat > README.md << 'EOF'
+
 # Hi, I'm Bader 👋
 
 Welcome to my portfolio! I work at the intersection of **hardware, avionics, electronics, and data** — building and troubleshooting systems from the circuit level up to the data that comes out of them.
