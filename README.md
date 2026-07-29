@@ -1,3 +1,5 @@
+cd ~/projects/badeeer.github.io
+cat > README.md << 'EOF'
 # Hi, I'm Bader 👋
 
 Welcome to my portfolio! I work at the intersection of **hardware, avionics, electronics, and data** — building and troubleshooting systems from the circuit level up to the data that comes out of them.
@@ -11,21 +13,21 @@ Welcome to my portfolio! I work at the intersection of **hardware, avionics, ele
 
 ## 🚀 Featured Projects
 
-- **[Project Name](link)** — Short description of what it does and the tech/tools used.
-- **[Project Name](link)** — Short description of what it does and the tech/tools used.
+- **[ESP32 BMP180 Altimeter](https://github.com/badeeer/esp32-bmp180-altimeter)** — Register-level I2C driver for a barometric altimeter, reading raw sensor registers and implementing Bosch's compensation formulas from scratch (no libraries).
 
 ## 🧰 Tools & Technologies
 
 - Python (data processing, automation, PDF/image tooling)
+- C/C++ (embedded, register-level programming)
 - Git / GitHub
+- ESP32, Arduino CLI, Wokwi Simulator
 - *(add your electronics tools, e.g. oscilloscopes, soldering, PCB design software, etc.)*
 
 ## 📫 Get in Touch
 
-- GitHub: [@badeeer](https://github.com/badeeer)
 - Email: baderdinbalaj@gmail.com
-- *(add LinkedIn, or other contact info if you'd like)*
+- GitHub: [@badeeer](https://github.com/badeeer)
 
 ---
 ⭐ Feel free to explore the repos and reach out if you'd like to collaborate!
-
+EOF
